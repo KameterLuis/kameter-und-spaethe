@@ -27,7 +27,7 @@ const AboutUs = () => {
         <div className="space-y-6">
           <p className="text-lg text-[#666666] leading-relaxed">
             Kameter & Späthe ist Ihr zuverlässiger Partner in Unterhaching für
-            Werkzeuge, Maschinen, Arbeitsschutz und Baubarf - seit Jahrzehnten
+            Werkzeuge, Maschinen, Arbeitsschutz und Baubedarf - seit Jahrzehnten
             inhabergeführt, persönlich, regional.
           </p>
 
